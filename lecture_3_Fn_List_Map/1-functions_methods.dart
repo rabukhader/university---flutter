@@ -1,4 +1,3 @@
-// What is a function?
 // A function is a block of code that does a specific task.
 //
 // Example

@@ -1,4 +1,3 @@
-// What is a variable?
 // A variable is a place to store data.
 // Example: a name, age, grade, salary
 
@@ -15,8 +14,9 @@
 // name stores text
 // age stores a number
 // later we can use these values in the program
-// More examples
 
+
+// More examples
 // void main() {
 //   String university = "AAUP";
 //   int level = 2;

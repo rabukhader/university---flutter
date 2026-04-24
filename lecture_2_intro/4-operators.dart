@@ -1,5 +1,3 @@
-// Operators
-// What are operators?
 // Operators are symbols used to perform actions on values.
 //
 // 1. Arithmetic operators: Used for math.

@@ -1,6 +1,3 @@
-//3. Layout Organization
-// Main points
-//
 // Layout organization means arranging widgets in a clean and logical way.
 //
 // Important layout widgets:
@@ -11,6 +8,7 @@
 // Padding for inner spacing
 // SizedBox for fixed spaces
 // Center for centering widgets
+
 // Example: organized layout using Column and Padding
 // import 'package:flutter/material.dart';
 //

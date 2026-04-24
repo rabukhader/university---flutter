@@ -1,5 +1,3 @@
-// Data Types
-// What is a data type?
 // A data type tells Dart what kind of value is stored.
 // Common data types in Dart
 // 1. String: Used for text.

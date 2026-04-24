@@ -1,4 +1,4 @@
-// OOP Summary Table for Students
+// OOP Summary
 
 // Class : Blueprint
 // Object : Real instance from a class

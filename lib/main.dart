@@ -10,7 +10,6 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
           title: Text("Hello World!"),
@@ -18,10 +17,6 @@ class MyApp extends StatelessWidget {
         body: Center(
           child: Text("Hello Flutter"),
         ),
-        drawer: Drawer(),
-        bottomNavigationBar: BottomAppBar(),
-        floatingActionButton: FloatingActionButton(onPressed: () {}),
-
       ),
     );
   }

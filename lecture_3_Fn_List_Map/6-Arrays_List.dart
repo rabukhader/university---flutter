@@ -1,5 +1,4 @@
 // In Dart, arrays are called Lists.
-//
 // A list stores multiple values in one variable.
 //
 // Example

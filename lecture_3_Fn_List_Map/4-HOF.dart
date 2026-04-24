@@ -1,4 +1,3 @@
-// Higher-Order Functions
 // A higher-order function is a function that:
 // takes another function as input, or
 // returns another function
@@ -33,7 +32,7 @@
 // 18
 
 
-// Easy real-life example with forEach
+// example with forEach
 // void main() {
 //   List<String> students = ["Ali", "Mona", "Noor"];
 //

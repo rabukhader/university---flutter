@@ -1,8 +1,10 @@
 //TextField and User Input
+
 //Main points
 // TextField allows the user to type text.
 // User input is usually read using TextEditingController.
 // This is useful for forms, login screens, search bars, and simple apps.
+
 // Example: simple TextField
 // import 'package:flutter/material.dart';
 //
@@ -30,10 +32,12 @@
 //     );
 //   }
 // }
+
 // Key points
 // TextField is the input box.
 // decoration is used for styling.
 // labelText adds a label.
+
 // OutlineInputBorder() gives the field a visible border.
 // Example: reading user input and showing it on screen
 // import 'package:flutter/material.dart';
@@ -89,7 +93,8 @@
 //       ),
 //     );
 //   }
-// }
+
+
 // Main points
 // TextEditingController reads the typed text.
 // nameController.text gets the current input.

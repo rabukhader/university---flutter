@@ -38,7 +38,7 @@
 //   }
 // }
 
-// Key points in the example
+// Key points
 // ElevatedButton creates the button.
 // onPressed defines what happens when the button is pressed.
 // child is the widget shown inside the button.

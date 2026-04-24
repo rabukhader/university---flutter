@@ -1,5 +1,3 @@
-// What is abstraction?
-//
 // Abstraction means showing only the important parts and hiding the complex details.
 //
 // Real-life example

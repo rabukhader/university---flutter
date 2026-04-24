@@ -1,11 +1,10 @@
-// What is syntax?
 // Syntax means the rules of writing code correctly.
 // In Flutter, we write code using Dart.
 // Basic Dart syntax example
-
-void main() {
-  print("Hello World");
-}
+//
+// void main() {
+//   print("Hello World");
+// }
 // Explanation
 // void means this function does not return a value
 // main() is the starting point of the program

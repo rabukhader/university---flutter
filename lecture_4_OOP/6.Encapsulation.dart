@@ -1,5 +1,3 @@
-// What is encapsulation?
-//
 // Encapsulation means protecting data and controlling how it is used.
 //
 // We do not want anyone to change important data in a wrong way.

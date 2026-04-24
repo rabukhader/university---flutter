@@ -1,5 +1,3 @@
-// What is a constructor?
-//
 // A constructor helps us create an object and give it values directly.
 //
 // Example
@@ -25,7 +23,6 @@
 // Student(this.name, this.age); is the constructor
 // when we create the object, we send the values immediately
 
-//
 // The constructor is a fast way to fill the object with data when we create it.
 
 //Named constructor simple note

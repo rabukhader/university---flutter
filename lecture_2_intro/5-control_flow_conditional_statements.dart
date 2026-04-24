@@ -1,16 +1,12 @@
-// What is control flow?
-//
 // Control flow means deciding which code should run and how many times it should run.
-//
 // This includes:
-//
 // if
 // if else
 // else if
 // switch
 // loops like for and while
+
 // A. if statement
-//
 // Used when you want to run code only if a condition is true.
 //
 // void main() {
@@ -20,8 +16,8 @@
 //     print("You are an adult");
 //   }
 // }
+
 // B. if else statement
-//
 // Used when there are two choices.
 //
 // void main() {
@@ -33,8 +29,8 @@
 //     print("Fail");
 //   }
 // }
+
 // C. else if statement
-//
 // Used when there are many conditions.
 //
 // void main() {
@@ -50,8 +46,8 @@
 //     print("Fail");
 //   }
 // }
+
 // D. switch statement
-//
 // Used when checking one variable against several exact values.
 //
 // void main() {
@@ -71,8 +67,8 @@
 //       print("Normal day");
 //   }
 // }
+
 // E. for loop
-//
 // Used when you know how many times to repeat.
 //
 // void main() {
@@ -86,8 +82,8 @@
 // 3
 // 4
 // 5
+
 // F. while loop
-//
 // Used when the loop depends on a condition.
 //
 // void main() {
@@ -98,8 +94,8 @@
 //     i++;
 //   }
 // }
+
 // G. break
-//
 // Stops the loop.
 //
 // void main() {
@@ -117,8 +113,8 @@
 // 2
 // 3
 // 4
+
 // H. continue
-//
 // Skips one round only.
 //
 // void main() {
@@ -136,8 +132,8 @@
 // 2
 // 4
 // 5
+
 // Full Combined Example
-//
 // This example uses variables, data types, operators, and control flow together:
 //
 // void main() {

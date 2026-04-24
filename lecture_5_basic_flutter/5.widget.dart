@@ -1,8 +1,4 @@
-//What is a widget?
-//
 // A widget is the basic building block in Flutter.
-//
-// What to say
 //
 // In Flutter, everything is a widget.
 //
@@ -38,4 +34,3 @@
 //   ),
 // )
 //
-// This shows the widget tree idea clearly.
