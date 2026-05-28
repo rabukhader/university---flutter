@@ -65,29 +65,20 @@
 //     );
 //   }
 // }
+// ------------------------------------------------------------
 // Explanation
 // In HomeScreen
-//
 // We have:
-//
 // final String studentName = "Ahmad";
-//
 // Then we send it:
-//
 // DetailsScreen(name: studentName)
 // In DetailsScreen
-//
 // We receive it:
-//
 // final String name;
-//
 // and inside constructor:
-//
 // const DetailsScreen({super.key, required this.name});
 // Main point
-//
 // Passing data works by:
-//
 // creating a variable in the destination screen
 // receiving it through constructor
 // sending the value when navigating

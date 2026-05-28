@@ -1,11 +1,6 @@
 //Sometimes the second screen sends data back to the first screen.
 //
-// Example:
-//
-// open a selection screen
-// choose an item
-// return the chosen value
-// Example
+// Example: open a selection screen, choose an item, return the chosen value
 // import 'package:flutter/material.dart';
 //
 // void main() {
@@ -91,16 +86,11 @@
 // }
 // Explanation
 // await Navigator.push(...)
-//
-// Waits until the second screen is closed.
-//
-// Navigator.pop(context, "Data from second screen")
-//
-// Closes the screen and sends data back.
-//
+// --> Waits until the second screen is closed.
+// Navigator.pop(context, "Data from second screen") --> Closes the screen and sends data back.
+// ------------------------------------------------------------
 // Main point
-//
 // Navigation can work in both directions:
-//
-// send data to next screen
-// receive data back from next screen
+// send data to next screen --> Navigator.push(...)
+// receive data back from next screen --> Navigator.pop(context, "Data from second screen")
+// ------------------------------------------------------------

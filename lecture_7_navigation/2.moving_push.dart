@@ -1,6 +1,4 @@
-//A. Navigation using Navigator.push()
-//
-// This is the simplest way to move to another screen.
+//Navigation using Navigator.push()
 //
 // Example
 // import 'package:flutter/material.dart';

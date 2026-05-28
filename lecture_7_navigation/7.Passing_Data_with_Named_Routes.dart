@@ -62,6 +62,5 @@
 //   }
 // }
 // Main points
-// arguments sends the data
+// arguments --> Sends the data
 // ModalRoute.of(context)!.settings.arguments receives it
-// this is useful, but constructor passing is easier for beginners

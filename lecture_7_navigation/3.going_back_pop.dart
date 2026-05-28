@@ -63,7 +63,6 @@
 //     );
 //   }
 // }
-// Explanation
 // Navigator.pop(context)
 //
 // Removes the current screen from the stack and returns to the previous screen.

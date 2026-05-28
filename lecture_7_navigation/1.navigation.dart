@@ -1,8 +1,4 @@
-//What is Navigator?
-//
 // The Navigator is the widget that manages a stack of screens.
-//
-// Simple idea
 //
 // Think of screens like cards:
 //

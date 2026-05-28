@@ -62,18 +62,10 @@
 //   }
 // }
 // Explanation
-// initialRoute
-//
-// The first route when the app starts.
-//
-// routes
-//
-// A map of route names and screens.
-//
-// Navigator.pushNamed(context, '/second')
-//
-// Moves to a screen using its route name.
-//
+// initialRoute --> The first route when the app starts.
+// routes --> A map of route names and screens.
+// Navigator.pushNamed(context, '/second') --> Moves to a screen using its route name.
+// ------------------------------------------------------------
 // Main point
-//
 // Named routes make navigation cleaner in larger apps.
+// ------------------------------------------------------------
