@@ -4,11 +4,12 @@
 //
 // converting JSON string into Map<String, dynamic>
 // or converting JSON list into List<dynamic>
+// ------------------------------------------------------------
 // Import needed
 // import 'dart:convert';
 //
 // This package is used to work with JSON in Dart.
-//
+// ------------------------------------------------------------
 // Example: parse a JSON object
 // import 'dart:convert';
 //
@@ -40,9 +41,11 @@
 //   print(students[0]["name"]);
 //   print(students[1]["age"]);
 // }
+// ------------------------------------------------------------
 // Main points
 // jsonDecode() can return:
-// Map<String, dynamic>
-// or List<dynamic>
-// you access list items by index
-// you access object values by key
+// Map<String, dynamic> --> {"name": "Ahmad", "age": 20}
+// or List<dynamic> --> ["Ahmad", "Sara"]
+// you access list items by index --> students[0]["name"]
+// you access object values by key --> students[0]["name"]
+// ------------------------------------------------------------

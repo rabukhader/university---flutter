@@ -1,4 +1,5 @@
-//Why do we use them?
+// Why do we use them?
+// ------------------------------------------------------------
 //
 // API requests take time.
 // The app must wait for data from the internet.

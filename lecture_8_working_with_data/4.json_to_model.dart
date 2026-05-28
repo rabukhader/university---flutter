@@ -1,9 +1,11 @@
+//What is a model?
+// A model is a class that represents a data structure.
+// It is used to parse JSON data into a Dart object.
+// ------------------------------------------------------------
 // Why use models?
-//
 // Using models makes the code cleaner and easier to manage.
-//
 // Instead of working with raw maps everywhere, we create a class.
-//
+// ------------------------------------------------------------
 // Example model
 // class Student {
 // final String name;
@@ -21,6 +23,7 @@
 // );
 // }
 // }
+// ------------------------------------------------------------
 // Using the model
 // import 'dart:convert';
 //

@@ -10,19 +10,16 @@
 // users
 // products
 // news
+// ------------------------------------------------------------
 // What is REST API?
-//
 // A REST API is a common way to send and receive data over the internet.
-//
+// ------------------------------------------------------------
 // Common HTTP methods:
-//
 // GET → get data
 // POST → send data
 // PUT → update data
 // DELETE → delete data
-//
-// For this lecture, the focus is mainly on GET.
-//
+// ------------------------------------------------------------
 // Package needed
 //
 // Usually we use the http package.
@@ -38,6 +35,7 @@
 //
 // import 'package:http/http.dart' as http;
 // import 'dart:convert';
+// ------------------------------------------------------------
 // Example: fetching data from API
 // import 'package:http/http.dart' as http;
 // import 'dart:convert';
